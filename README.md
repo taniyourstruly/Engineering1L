@@ -1,5 +1,4 @@
-# flowerrobot
-Project created for Engineering 1L at Santa Clara University
-
-Programmed on Arduino
+# Engineering1L
+Projects created for Engineering 1L at Santa Clara University
+All are programmed on Arduino
 
